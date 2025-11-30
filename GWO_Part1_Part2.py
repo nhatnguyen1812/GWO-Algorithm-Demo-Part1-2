@@ -4,7 +4,7 @@ import math
 import os
 
 # INPUT: CAU HINH THAM SO
-# Ban chinh sua tham so tai day, khong can nhap tay khi chay
+# Tham so
 CONF = {
     "so_luong_soi": 30,      # N
     "so_vong_lap": 100,      # T
@@ -196,4 +196,5 @@ if __name__ == "__main__":
         hgwo = HybridGWO_PSO(CONF['so_luong_soi'], CONF['so_vong_lap'], CONF['so_chieu'], CONF['gioi_han'][0], CONF['gioi_han'][1])
         hgwo.optimize(f)
         
+
         log_print("\n>>> DA HOAN THANH! KET QUA DA DUOC LUU VAO FILE 'ket_qua_chay.txt'", f)
