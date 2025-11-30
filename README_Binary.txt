@@ -1,3 +1,12 @@
+THÔNG TIN BÀI TẬP LỚN
+=====================================================================
+Môn học: Kỹ thuật truyền thông
+Đề tài: Tìm hiểu thuật toán Grey Wolf Optimizer và các biến thể
+Nhóm thực hiện: Nhóm 23
+
+THÀNH VIÊN NHÓM:
+1. Nguyễn Quang Nhật - 202417261
+2. Lê Tuấn Vĩ      - 202417271
 =====================================================================
 HƯỚNG DẪN CHẠY MÃ NGUỒN DEMO BIẾN THỂ NHỊ PHÂN (BINARY GWO)
 =====================================================================
@@ -39,5 +48,6 @@ python Demo_Binary_GWO.py
   + In ra "Best Position": Là vector nhị phân tốt nhất tìm được (ví dụ: [0 0 0 ... 0]).
   + In ra "Best Score": Giá trị hàm mục tiêu tương ứng (càng gần 0 càng tốt).
   + Hiển thị một biểu đồ (đồ thị hội tụ) cho thấy giá trị Best Score giảm dần theo thời gian.
+
 
 =====================================================================
