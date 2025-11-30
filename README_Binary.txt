@@ -32,7 +32,7 @@ pip install numpy matplotlib
 ---------------------------------------------------------------------
 3. CÁCH CHẠY CHƯƠNG TRÌNH
 ---------------------------------------------------------------------
-Bước 1: Đảm bảo bạn đã lưu file mã nguồn với tên `Demo_Binary_GWO.py`.
+Bước 1: Đảm bảo bạn đã lưu file mã nguồn với tên `GWO_Demo_Binary.py`.
 
 Bước 2: Mở terminal (hoặc cmd) và di chuyển đến thư mục chứa file đó.
 
@@ -51,3 +51,4 @@ python Demo_Binary_GWO.py
 
 
 =====================================================================
+
